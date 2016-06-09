@@ -1,0 +1,30 @@
+{
+	"name": "angular-seed",
+	"version": "0.0.1",
+	"authors": [
+		"Luke Madera <luke.madera@gmail.com>"
+	],
+	"description": "Demo",
+	"keywords": [
+	],
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+		"angular":"1.4.0",
+		"angular-route":"1.4.0",
+		
+		"momentjs":"latest"
+	},
+	"devDependencies": {
+	},
+	"resolutions": {
+		"angular": "1.4.0",
+		"angular-route": "1.4.0"
+	}
+}
